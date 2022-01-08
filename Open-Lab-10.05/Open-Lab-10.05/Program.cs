@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace Open_Lab_10._04
+
+namespace Open_Lab_10._05
 {
     class Program
     {
@@ -9,11 +11,10 @@ namespace Open_Lab_10._04
             Book LOTR = new Book();
             Book LOTR2 = new Book();
             Book LOTR3 = new Book("Titulok", 50);
-            Book HOBIT = new Book("Titulok", 50, "Kategoria", "Autor", 2020);
-
+            Book HOBIT = new Book("Titulok", 50, Book.categoryList[4], "Autor", 2020);
             LOTR.Title("Titulok");
             LOTR.Pages(50);
-            LOTR.Category("Kategoria");
+            LOTR.Category = "Kategoria";
             LOTR.Author("Author");
             LOTR.ReleaseDate(2020);
             Console.WriteLine(LOTR.ToString());
@@ -26,6 +27,10 @@ namespace Open_Lab_10._04
 
     public class Book
     {
+        /// <summary>
+        /// New list with various categories
+        /// </summary>
+        public static List<string> categoryList = new List<string>() { "detské", "romantické", "náučné", "sci-fi", "dobrodružné" }; 
         public string title;
         public int pages;
         public string category;
@@ -59,6 +64,7 @@ namespace Open_Lab_10._04
         }
 
 
+
         public void Title(string NewTitle)
         {
             title = NewTitle;
@@ -71,10 +77,7 @@ namespace Open_Lab_10._04
                 pages = 1;
             }
         }
-        public void Category(string NewCategory)
-        {
-            category = NewCategory;
-        }
+        public string Category { get; set; }
         public void Author(string NewAuthor)
         {
             author = NewAuthor;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukas\\source\\repos\\Open-Lab-10.05\\Open-Lab-10.05\\Open-Lab-10.05.csproj": {}
+    "C:\\Users\\lukas\\Source\\Repos\\Open-Lab-10.05-2\\Open-Lab-10.05\\Open-Lab-10.05\\Open-Lab-10.05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukas\\source\\repos\\Open-Lab-10.05\\Open-Lab-10.05\\Open-Lab-10.05.csproj": {
+    "C:\\Users\\lukas\\Source\\Repos\\Open-Lab-10.05-2\\Open-Lab-10.05\\Open-Lab-10.05\\Open-Lab-10.05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukas\\source\\repos\\Open-Lab-10.05\\Open-Lab-10.05\\Open-Lab-10.05.csproj",
+        "projectUniqueName": "C:\\Users\\lukas\\Source\\Repos\\Open-Lab-10.05-2\\Open-Lab-10.05\\Open-Lab-10.05\\Open-Lab-10.05.csproj",
         "projectName": "Open-Lab-10.05",
-        "projectPath": "C:\\Users\\lukas\\source\\repos\\Open-Lab-10.05\\Open-Lab-10.05\\Open-Lab-10.05.csproj",
+        "projectPath": "C:\\Users\\lukas\\Source\\Repos\\Open-Lab-10.05-2\\Open-Lab-10.05\\Open-Lab-10.05\\Open-Lab-10.05.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukas\\source\\repos\\Open-Lab-10.05\\Open-Lab-10.05\\obj\\",
+        "outputPath": "C:\\Users\\lukas\\Source\\Repos\\Open-Lab-10.05-2\\Open-Lab-10.05\\Open-Lab-10.05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",

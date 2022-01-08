@@ -1,0 +1,14 @@
+C:\Users\lukas\Source\Repos\Open-Lab-10.05-2\Open-Lab-10.05\Open-Lab-10.05\bin\Debug\netcoreapp3.1\Open-Lab-10.05.exe
+C:\Users\lukas\Source\Repos\Open-Lab-10.05-2\Open-Lab-10.05\Open-Lab-10.05\bin\Debug\netcoreapp3.1\Open-Lab-10.05.deps.json
+C:\Users\lukas\Source\Repos\Open-Lab-10.05-2\Open-Lab-10.05\Open-Lab-10.05\bin\Debug\netcoreapp3.1\Open-Lab-10.05.runtimeconfig.json
+C:\Users\lukas\Source\Repos\Open-Lab-10.05-2\Open-Lab-10.05\Open-Lab-10.05\bin\Debug\netcoreapp3.1\Open-Lab-10.05.runtimeconfig.dev.json
+C:\Users\lukas\Source\Repos\Open-Lab-10.05-2\Open-Lab-10.05\Open-Lab-10.05\bin\Debug\netcoreapp3.1\Open-Lab-10.05.dll
+C:\Users\lukas\Source\Repos\Open-Lab-10.05-2\Open-Lab-10.05\Open-Lab-10.05\bin\Debug\netcoreapp3.1\Open-Lab-10.05.pdb
+C:\Users\lukas\Source\Repos\Open-Lab-10.05-2\Open-Lab-10.05\Open-Lab-10.05\obj\Debug\netcoreapp3.1\Open-Lab-10.05.csproj.AssemblyReference.cache
+C:\Users\lukas\Source\Repos\Open-Lab-10.05-2\Open-Lab-10.05\Open-Lab-10.05\obj\Debug\netcoreapp3.1\Open-Lab-10.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Source\Repos\Open-Lab-10.05-2\Open-Lab-10.05\Open-Lab-10.05\obj\Debug\netcoreapp3.1\Open-Lab-10.05.AssemblyInfoInputs.cache
+C:\Users\lukas\Source\Repos\Open-Lab-10.05-2\Open-Lab-10.05\Open-Lab-10.05\obj\Debug\netcoreapp3.1\Open-Lab-10.05.AssemblyInfo.cs
+C:\Users\lukas\Source\Repos\Open-Lab-10.05-2\Open-Lab-10.05\Open-Lab-10.05\obj\Debug\netcoreapp3.1\Open-Lab-10.05.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Source\Repos\Open-Lab-10.05-2\Open-Lab-10.05\Open-Lab-10.05\obj\Debug\netcoreapp3.1\Open-Lab-10.05.dll
+C:\Users\lukas\Source\Repos\Open-Lab-10.05-2\Open-Lab-10.05\Open-Lab-10.05\obj\Debug\netcoreapp3.1\Open-Lab-10.05.pdb
+C:\Users\lukas\Source\Repos\Open-Lab-10.05-2\Open-Lab-10.05\Open-Lab-10.05\obj\Debug\netcoreapp3.1\Open-Lab-10.05.genruntimeconfig.cache
